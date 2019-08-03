@@ -1,0 +1,8 @@
+name: EthanPlugin
+version: 1.0
+author: xXWilee999Xx
+main: me.wilee999.EthanPlugin
+commands:
+  ethan:
+    usage: /<command> <player>
+    description: Kindly reminds the player that they are on thin ice.
